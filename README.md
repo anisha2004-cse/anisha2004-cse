@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Anisha 👋
 
-<!--
-**anisha2004-cse/anisha2004-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering (3rd Year) - MITY-WPU  
+📊 Aspiring Data Analyst  
+🐍 Python | Pandas | NumPy  
+🤖 Interested in AI & Machine Learning  
+📱 Android Application Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Python for Data Analysis  
+- Data Cleaning & Visualization  
+- Machine Learning Fundamentals  
+- Android App Development  
+- Git & GitHub  
+
+---
+
+## 🤖 AI & Emerging Technologies
+I am actively exploring Artificial Intelligence concepts and understanding how AI-driven solutions
+can be applied to real-world problems through data and smart applications.
+
+---
+
+## 📌 Current Focus
+- Building Data Analysis Projects  
+- Learning ML Model Implementation  
+- Exploring AI-powered applications  
+- Developing Practical Android Apps  
+
+---
+
+## 📫 Connect With Me
+LinkedIn: (Add link here)
